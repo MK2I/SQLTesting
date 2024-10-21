@@ -8,4 +8,10 @@ WHERE first_name='Alice'
 AND state_code='FL' AND id_number='931'
 
 
-/* We find that there are 3 Alice only one plays in florida, get the ID and match the id to the rest of the query*/
+/* We find that there are 3 Alice only one plays in florida, get the ID and match the id to the rest of the query
+
+Alternative search
+
+ team LIKE'%Cobras'
+
+*/
